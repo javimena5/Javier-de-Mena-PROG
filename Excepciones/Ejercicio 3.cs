@@ -8,13 +8,13 @@ namespace PROYECTO
     {
         class ParametroNoValidoException : Exception
         {
-            public ParametroNoValidoException() {}
+            public ParametroNoValidoException() : base() {}
 
             public ParametroNoValidoException(string message) : base(message){} 
         }
         public static double CalculaLogaritmo(double num){
             if(num <= 0){
-                throw new ParametroNoValidoException("errrroooooor");
+                throw new ParametroNoValidoException("Numero invalido, debe ser mayor que 0.");
             }
             return Math.Log10(num);
         }
@@ -26,9 +26,7 @@ namespace PROYECTO
                 Console.WriteLine("No se introdujeron argumentos.");
             }catch(FormatException){
                 Console.WriteLine("Argumento con formato invalido.");
-            }catch(ParametroNoValidoException e){
-                Console.WriteLine("Numero invalido, debe ser mayor que 0.");
-            }
+            }catch(ParametroNoValidoException){}
             
             
             Console.ReadKey();
