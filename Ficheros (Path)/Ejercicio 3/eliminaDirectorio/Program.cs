@@ -2,15 +2,15 @@
 using System;
 using System.IO;
 
-namespace eliminaFichero
+namespace eliminaDirecorio
 {
     class Program
     {
         static void Main(string[] args)
         {
             if(args.Length == 1){
-                if(File.Exists(args[0])){
-                    File.Delete(args[0]);
+                if(Directory.Exists(args[0])){
+                    Directory.Delete(args[0]);
                     Console.Write(" Directorio eliminado.");
                 }
                 else {
@@ -18,7 +18,7 @@ namespace eliminaFichero
                 }
             }else {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.Write(" ERROR. Argumentos incorrectos. [ eliminaFichero <ruta> ]");
+                Console.Write(" ERROR. Argumentos incorrectos. [ eliminaDirectorio <ruta> ]");
                 Console.ResetColor();
             }
         }
