@@ -1,4 +1,6 @@
-﻿using System;
+// Javier de Mena Asenjo
+using System;
+using System.IO;
 
 namespace eliminaFichero
 {
@@ -6,7 +8,20 @@ namespace eliminaFichero
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            if(args.Length == 1){
+                if(File.Exists(args[0])){
+                    File.Delete(args[0]);
+                    Console.Write(" Fichero eliminado.");
+                }
+                else {
+                    Console.Write(" El fichero introducido no existe.");
+                }
+            }else {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.Write(" ERROR. Argumentos incorrectos. [ eliminaFichero <ruta> ]");
+                Console.ResetColor();
+            }
         }
     }
 }
+// Javier de Mena Asenjo
