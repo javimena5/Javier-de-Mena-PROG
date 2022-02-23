@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\PROGRAMA\\listaCarpeta\\listaCarpeta.csproj": {}
+    "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\Ejercicios\\Ficheros (Path)\\Ejercicio 3\\listaCarpeta\\listaCarpeta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\PROGRAMA\\listaCarpeta\\listaCarpeta.csproj": {
+    "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\Ejercicios\\Ficheros (Path)\\Ejercicio 3\\listaCarpeta\\listaCarpeta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\PROGRAMA\\listaCarpeta\\listaCarpeta.csproj",
+        "projectUniqueName": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\Ejercicios\\Ficheros (Path)\\Ejercicio 3\\listaCarpeta\\listaCarpeta.csproj",
         "projectName": "listaCarpeta",
-        "projectPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\PROGRAMA\\listaCarpeta\\listaCarpeta.csproj",
+        "projectPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\Ejercicios\\Ficheros (Path)\\Ejercicio 3\\listaCarpeta\\listaCarpeta.csproj",
         "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\PROGRAMA\\listaCarpeta\\obj\\",
+        "outputPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\Ejercicios\\Ficheros (Path)\\Ejercicio 3\\listaCarpeta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config"

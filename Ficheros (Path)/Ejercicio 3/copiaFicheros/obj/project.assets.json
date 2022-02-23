@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\PROGRAMA\\copiaFicheros\\copiaFicheros.csproj",
+      "projectUniqueName": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\Ejercicios\\Ficheros (Path)\\Ejercicio 3\\copiaFicheros\\copiaFicheros.csproj",
       "projectName": "copiaFicheros",
-      "projectPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\PROGRAMA\\copiaFicheros\\copiaFicheros.csproj",
+      "projectPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\Ejercicios\\Ficheros (Path)\\Ejercicio 3\\copiaFicheros\\copiaFicheros.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\PROGRAMA\\copiaFicheros\\obj\\",
+      "outputPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\Ejercicios\\Ficheros (Path)\\Ejercicio 3\\copiaFicheros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config"

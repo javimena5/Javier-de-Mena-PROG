@@ -1,0 +1,13 @@
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\bin\Debug\netcoreapp3.1\copiaFicheros.exe
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\bin\Debug\netcoreapp3.1\copiaFicheros.deps.json
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\bin\Debug\netcoreapp3.1\copiaFicheros.runtimeconfig.json
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\bin\Debug\netcoreapp3.1\copiaFicheros.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\bin\Debug\netcoreapp3.1\copiaFicheros.dll
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\bin\Debug\netcoreapp3.1\copiaFicheros.pdb
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\obj\Debug\netcoreapp3.1\copiaFicheros.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\obj\Debug\netcoreapp3.1\copiaFicheros.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\obj\Debug\netcoreapp3.1\copiaFicheros.AssemblyInfo.cs
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\obj\Debug\netcoreapp3.1\copiaFicheros.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\obj\Debug\netcoreapp3.1\copiaFicheros.dll
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\obj\Debug\netcoreapp3.1\copiaFicheros.pdb
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\copiaFicheros\obj\Debug\netcoreapp3.1\copiaFicheros.genruntimeconfig.cache

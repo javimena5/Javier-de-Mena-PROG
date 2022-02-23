@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\PROGRAMA\\creaDirectorio\\creaDirectorio.csproj",
+      "projectUniqueName": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\Ejercicios\\Ficheros (Path)\\Ejercicio 3\\creaDirectorio\\creaDirectorio.csproj",
       "projectName": "creaDirectorio",
-      "projectPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\PROGRAMA\\creaDirectorio\\creaDirectorio.csproj",
+      "projectPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\Ejercicios\\Ficheros (Path)\\Ejercicio 3\\creaDirectorio\\creaDirectorio.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\PROGRAMA\\creaDirectorio\\obj\\",
+      "outputPath": "C:\\Users\\alumno\\Desktop\\CLASE\\Programacion\\Ejercicios\\Ficheros (Path)\\Ejercicio 3\\creaDirectorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,13 @@
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\bin\Debug\netcoreapp3.1\listaCarpeta.exe
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\bin\Debug\netcoreapp3.1\listaCarpeta.deps.json
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\bin\Debug\netcoreapp3.1\listaCarpeta.runtimeconfig.json
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\bin\Debug\netcoreapp3.1\listaCarpeta.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\bin\Debug\netcoreapp3.1\listaCarpeta.dll
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\bin\Debug\netcoreapp3.1\listaCarpeta.pdb
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\obj\Debug\netcoreapp3.1\listaCarpeta.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\obj\Debug\netcoreapp3.1\listaCarpeta.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\obj\Debug\netcoreapp3.1\listaCarpeta.AssemblyInfo.cs
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\obj\Debug\netcoreapp3.1\listaCarpeta.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\obj\Debug\netcoreapp3.1\listaCarpeta.dll
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\obj\Debug\netcoreapp3.1\listaCarpeta.pdb
+C:\Users\alumno\Desktop\CLASE\Programacion\Ejercicios\Ficheros (Path)\Ejercicio 3\listaCarpeta\obj\Debug\netcoreapp3.1\listaCarpeta.genruntimeconfig.cache
