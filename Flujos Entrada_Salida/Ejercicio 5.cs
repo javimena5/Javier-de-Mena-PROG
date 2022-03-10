@@ -1,6 +1,7 @@
 // Javier de Mena Asenjo
 using System;
 using System.IO;
+using System.Text;
 
 namespace Prueba
 {
@@ -8,24 +9,20 @@ namespace Prueba
     {
         static void Main(string[] args)
         {
-            Path ruta = @"C:/datos/datos.txt";
-            if(!Directory.Exists(ruta)) Directory.CreateDirectory(ruta);
-            FileStream fs = new FileStream("datos.txt",FileMode.Create,FileAccess.Write);
+            string ruta = @"C:\datos\datos.txt";
+            if(!Directory.Exists(Path.GetDirectoryName(ruta))) Directory.CreateDirectory(Path.GetDirectoryName(ruta));
+
+            Directory.SetCurrentDirectory(Path.GetDirectoryName(ruta));
+            FileStream fs = new FileStream(Path.GetFileName(ruta),FileMode.Create,FileAccess.Write);
             BinaryWriter bw = new BinaryWriter(fs, Encoding.UTF8);
-            ConsoleKeyInfo cki = null;
-            do{
-                cki = Console.ReadKey();
-                bw.Write(cki.KeyChar);
-            }while(cki.KeyChar != ConsoleKey.Escape);
-            Console.ReadKey();
-
             
-            using (FileStream stream = new FileStream(rutaFichero, FileMode.Open, FileAccess.Read, FileShare.Read))
-            using (BinaryWriter streamRB = new BinaryReader(stream))
-            {
-                
+            ConsoleKeyInfo cki = Console.ReadKey();
+            while(cki.Key != ConsoleKey.Escape){
+                bw.Write(cki.KeyChar);
+                if(cki.Key == ConsoleKey.Enter) Console.WriteLine();
+                cki = Console.ReadKey();
             }
-
+            bw.Close();
 
         }
     }
